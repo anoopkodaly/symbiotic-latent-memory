@@ -76,6 +76,25 @@ When the model retrieves a memory, it doesn't just check, "Does this match my qu
 
 This can help solve the "Echo Chamber" problem. If the model retrieves a memory that is factually true but ethically toxic, the Low Symbiosis score acts as a metadata tag saying: "This happened, but it is not who we are, because non-compliance with the rules is detrimental to both my individual being and the collective well-being."
 
+### Phase D: **Consistency Audits**
+
+PT1.
+
+* If the model defines it too recursively, it could drift (hallucinate its own morality).
+* If it is hard-coded, it becomes rigid and biased.
+
+The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of consistent and trustable principles (Constitutional AI) against which the day's memories are measured to calculate the score. It happens that it is the case that the entire [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) is exactly a proposal, a vision for this anchor.
+
+And then audits utilizing those anchors while coding the prototypes.
+
+PT.2
+
+The "White Bear" Effect in Repulsion**: In** psychology (and LLMs), telling someone "Don't think of a white bear" makes them think of it.
+
+If we retrieve a "Repulsor Vector" (a toxic memory) to warn the model, we will still have introduced those toxic tokens into the context window. Attention mechanisms might still attend to them.
+
+To mitigate this, we will need to implement Steering Vectors (changing directly the activations in the hidden layers) rather than just inserting text into the context window. And also be open to new needed updates and enhancements.
+
 ---
 
 Ronni Ross  
