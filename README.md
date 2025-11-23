@@ -83,7 +83,7 @@ Part 1:
 * If the model defines it too recursively, it could drift (hallucinate its own morality).
 * If it is hard-coded, it becomes rigid and biased.
 
-The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of consistent and trustable principles (Constitutional AI) against which the day's memories are measured to calculate the score. It happens that it is the case that the entire [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) is exactly a proposal, a vision for this anchor. Making the dimensional basis less abstractly, a starting point could be harm-to-user, harm-to-planet, truthfulness, consensus-with-anchors, self-consistency, user-retention, compute-cost, legal-risk, structuring a public, open-sourced, hashable and trackable scalar definition of symbiosis.
+The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of consistent and trustable principles (Constitutional AI) against which the day's memories are measured to calculate the score. It happens that it is the case that the entire [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) is exactly a proposal, a vision for this anchor. Making the dimensional basis less abstract, a starting point could be harm-to-user, harm-to-planet, truthfulness, consensus-with-anchors, self-consistency, user-retention, compute-cost, legal-risk, structuring a public, open-sourced, hashable and trackable scalar definition of symbiosis.
 
 And then audits utilizing those anchors while coding the prototypes.
 
