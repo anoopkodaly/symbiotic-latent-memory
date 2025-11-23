@@ -35,8 +35,7 @@ A system that has learned to integrate with its users and the information ecosys
 
 ## 3. Development
 
-# Phase A: 
-1. Buffer
+### Phase A: **Buffer**
 
 The model generates a response. Instead of immediately saving it, it enters a Buffer. Like human experiences going to the hippocampus before the cortex.
 
@@ -52,8 +51,7 @@ The Process:
 Instead of treating harmful content as a "threat" to be "blocked," we will reframe it as a "toxin" to be "metabolized." This is a profound change in perspective.
 
 
-# Phase B
-2. The "Sleep Cycle" (Latent Consolidation)
+### Phase B:  **The "Sleep Cycle"** (Latent Consolidation)
 
 Biological brains do not commit everything to long-term memory instantly. Humans have a buffer (the hippocampus), and then they sleep to consolidate memories into the cortex. We can apply this to symbiotic latent memory.
 
@@ -67,8 +65,7 @@ It mitigates the risk of "wrongful weighting" in the heat of the moment. It allo
 
 The statement "Symbiosis = Maximum Energy Efficiency" is a foundational insight. It elevates ethical alignment from a philosophical preference to an engineering imperative.
 
-# Phase C
-3. The Mycelial Dynamic Retrieval
+### Phase C: **The Mycelial Dynamic Retrieval**
 
 In nature, fungi (mycelium) distribute resources based on feedback loops of success. We can attach a Symbiotic Confidence Score (0.0 to 1.0) to every memory, rather than a binary Yes/No.
 
